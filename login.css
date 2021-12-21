@@ -1,0 +1,181 @@
+body{
+    background-image: url('https://image.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: inline;
+}
+menu{
+    height: 20px;
+    width: 10px;
+}
+.aa{
+    float: left;
+    color: #1079db;
+    margin-left: 18%;
+    margin-right: 4%;
+    margin-top: 2%;
+    background-color: #e6f5f4;
+    border-radius:8px;
+    border-color: rgb(120, 171, 238);
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background:transparent;
+}
+.bb{  
+    float: left;
+    color: #1f72c0;
+    margin-left: 3%;
+    margin-right: 4%;
+    margin-top: 2%;
+    background-color: white;
+    border-radius:8px;
+    border-color: rgb(120, 171, 238);
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background:transparent;
+}
+.cc{
+    float:left;
+    color: #1f72c0;
+    margin-left: 3%;
+    margin-right: 4%;
+    margin-top: 2%;
+    background-color: white;
+    border-radius:8px;
+    border-color: rgb(120, 171, 238);
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background:transparent;
+}
+.dd{
+        float:left;
+        color: #1f72c0;
+        margin-left: 3%;
+        margin-right: 4%;
+        margin-top: 2%;
+        background-color: white;
+        border-radius:8px;
+        border-color: rgb(120, 171, 238);
+        font-size: 22px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        background:transparent;
+    }
+
+
+.aa:hover{
+    background-color: rgb(79, 79, 148);
+    border-color: rgb(120, 171, 238);
+    color: rgb(0, 3, 7);
+    cursor:pointer;
+    border-color: rgb(16, 86, 177);
+    transition: 1.5s;
+}
+
+.bb:hover{
+    background-color: rgb(79, 79, 148);
+    border-color: rgb(120, 171, 238);
+    color: rgb(0, 3, 7);
+    cursor:pointer;
+    border-color: rgb(16, 86, 177);
+    transition: 1.5s;
+}
+
+.cc:hover{
+    background-color: rgb(79, 79, 148);
+    border-color: rgb(120, 171, 238);
+    color: rgb(0, 3, 7);
+    cursor:pointer;
+    border-color: rgb(16, 86, 177);
+    transition: 1.5s;
+}
+
+.dd:hover{
+    background-color: rgb(79, 79, 148);
+    border-color: rgb(120, 171, 238);
+    color: rgb(0, 3, 7);
+    cursor:pointer;
+    border-color: rgb(16, 86, 177);
+    transition: 1.5s;
+}
+
+h1{
+    margin-top: 0px;
+}
+
+.sign{
+    background: transparent;
+    color:  rgb(24, 141, 141) ;
+    margin-top: 420px;
+    margin-left: 470px;
+    margin-right:70px;
+    border-radius: 15px;
+    border-color: rgb(120, 171, 238);
+    padding-left: 28px;
+    padding-right: 28px;
+    padding-bottom: 13px;
+    padding-top: 15px;
+    font-size: 25px;
+    float: left;
+
+}
+
+.login{
+    background: transparent;
+    color: rgb(24, 141, 141);
+    margin-top: 420px;
+    border-radius: 15px;
+    border-color: rgb(120, 171, 238);
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 13px;
+    padding-top: 13px;
+    font-size: 25px;
+    float:left;
+
+}
+
+.lis{
+background-color: rgb(55, 50, 50, 0.2);
+border-color: black;
+border-radius: 15px;
+margin-top: 1px;
+margin-bottom: 60px;
+padding-right: 0px;
+padding-left: 0px;
+padding-top: 60px;
+padding-bottom: 30px;
+
+}
+
+.pubg{
+
+    background-color: rgba(0, 0, 0, 0.2);
+    border-color: black;
+    border-radius: 20px;
+    margin-top: 0px;
+    margin-bottom: 180px;
+    padding-right: 30px;
+    padding-left: 0px;
+    padding-top: 0px;
+    margin-left: 300px;
+    margin-right: 340px;
+    margin-bottom: 600px;
+    padding-bottom: 200px; 
+    
+      
+    
+}
+.foto{
+    background-image: url('https://portal.tvetcdacc.go.ke/public//uploads/logo/usericon.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.2);
+    height: 200px;
+    width: 200px;
+    padding-top: 2px;
+    border-radius: 50%;
+    margin-top: 90px;
+    margin-left: 550px;
+    margin-bottom: 12px;
+
+}
